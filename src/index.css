@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.logowidth {
+  width: 160px;
+  align-self: center;
+  fill: rgb(40, 13, 95);
+  flex-shrink: 0;
+}
